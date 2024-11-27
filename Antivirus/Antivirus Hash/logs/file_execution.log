@@ -1,0 +1,11 @@
+2024-11-26 21:15:47,638 - INFO - Fichier autorisï¿½ : test-installer-2.exe
+2024-11-26 21:26:34,875 - WARNING - Exï¿½cution bloquï¿½e pour test-installer.exe : Fichier malveillant
+2024-11-26 21:26:34,876 - INFO - Extension changï¿½e pour bloquer l'exï¿½cution : test-installer.exe -> test-installer.exe.blocked
+2024-11-26 21:29:31,658 - ERROR - Fichier invalide ou introuvable : test-insta	
+2024-11-26 21:31:26,531 - WARNING - Exécution bloquée pour test-installer.exe : Fichier malveillant
+2024-11-26 21:31:26,532 - INFO - Extension changée pour bloquer l'exécution : test-installer.exe -> test-installer.exe.blocked
+2024-11-26 21:34:05,177 - WARNING - Exécution bloquée pour test-installer.exe : Fichier malveillant
+2024-11-26 21:34:05,178 - INFO - Extension changée pour bloquer l'exécution : test-installer.exe -> test-installer.exe.blocked
+2024-11-26 21:34:43,105 - INFO - Fichier autorisé : test-installer-2.exe
+2024-11-27 17:13:35,103 - ERROR - Erreur lors de la connexion à la base de données : 2003 (HY000): Can't connect to MySQL server on '172.19.8.80:3306' (10061)
+2024-11-27 17:14:25,362 - INFO - Fichier autorisé : test-installer-2.exe
